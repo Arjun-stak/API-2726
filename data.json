@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "event_date": "2026-02-14",
+    "event_time": "19:15",
+    "topic": "Valentine Special",
+    "message": "Check out our dinner deals!",
+    "image_link": "https://example.com/heart.png"
+  },
+  {
+    "id": 2,
+    "event_date": "2026-02-15",
+    "event_time": "08:00",
+    "topic": "Morning News",
+    "message": "Your daily briefing is ready.",
+    "image_link": "https://example.com/news.png"
+  }
+]
