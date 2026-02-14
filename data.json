@@ -14,5 +14,13 @@
     "topic": "Morning News",
     "message": "Your daily briefing is ready.",
     "image_link": "https://example.com/news.png"
+  },
+  {
+    "id": 3,
+    "event_date": "2026-02-15",
+    "event_time": "8:27",
+    "topic": "Lunch Promo",
+    "message": "Enjoy our midday specials!",
+    "image_link": "https://example.com/lunch.png"
   }
 ]
