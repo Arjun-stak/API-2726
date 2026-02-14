@@ -1,26 +1,18 @@
 [
   {
-    "id": 1,
+    "id": 101,
     "event_date": "2026-02-14",
-    "event_time": "19:15",
-    "topic": "Valentine Special",
-    "message": "Check out our dinner deals!",
-    "image_link": "https://example.com/heart.png"
+    "event_time": "20:35",
+    "topic": "First Alert",
+    "message": "It is now 8:35 PM. Your first scheduled notification is firing!",
+    "image_link": "https://example.com/alert1.png"
   },
   {
-    "id": 2,
-    "event_date": "2026-02-15",
-    "event_time": "08:00",
-    "topic": "Morning News",
-    "message": "Your daily briefing is ready.",
-    "image_link": "https://example.com/news.png"
-  },
-  {
-    "id": 3,
-    "event_date": "2026-02-15",
-    "event_time": "8:27",
-    "topic": "Lunch Promo",
-    "message": "Enjoy our midday specials!",
-    "image_link": "https://example.com/lunch.png"
+    "id": 102,
+    "event_date": "2026-02-14",
+    "event_time": "20:37",
+    "topic": "Second Alert",
+    "message": "It is now 8:37 PM. The second notification has arrived.",
+    "image_link": "https://example.com/alert2.png"
   }
 ]
